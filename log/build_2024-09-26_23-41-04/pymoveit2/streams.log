@@ -1,0 +1,97 @@
+[0.025s] Invoking command in '/home/mikealpha/colcon_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mikealpha/colcon_ws/src/pymoveit2 -DCMAKE_INSTALL_PREFIX=/home/mikealpha/colcon_ws/install/pymoveit2
+[0.084s] -- The C compiler identification is GNU 11.4.0
+[0.142s] -- The CXX compiler identification is GNU 11.4.0
+[0.147s] -- Detecting C compiler ABI info
+[0.197s] -- Detecting C compiler ABI info - done
+[0.204s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.204s] -- Detecting C compile features
+[0.204s] -- Detecting C compile features - done
+[0.207s] -- Detecting CXX compiler ABI info
+[0.279s] -- Detecting CXX compiler ABI info - done
+[0.285s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.285s] -- Detecting CXX compile features
+[0.285s] -- Detecting CXX compile features - done
+[0.287s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.455s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.691s] -- Configuring done
+[0.694s] -- Generating done
+[0.695s] -- Build files have been written to: /home/mikealpha/colcon_ws/build/pymoveit2
+[0.700s] Invoked command in '/home/mikealpha/colcon_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mikealpha/colcon_ws/src/pymoveit2 -DCMAKE_INSTALL_PREFIX=/home/mikealpha/colcon_ws/install/pymoveit2
+[0.701s] Invoking command in '/home/mikealpha/colcon_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/pymoveit2 -- -j12 -l12
+[0.753s] Built target ament_cmake_python_copy_pymoveit2
+[0.962s] running egg_info
+[0.963s] creating pymoveit2.egg-info
+[0.963s] writing pymoveit2.egg-info/PKG-INFO
+[0.963s] writing dependency_links to pymoveit2.egg-info/dependency_links.txt
+[0.963s] writing top-level names to pymoveit2.egg-info/top_level.txt
+[0.964s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[0.964s] reading manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[0.965s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[0.992s] Built target ament_cmake_python_build_pymoveit2_egg
+[1.000s] Invoked command in '/home/mikealpha/colcon_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/pymoveit2 -- -j12 -l12
+[1.020s] Invoking command in '/home/mikealpha/colcon_ws/build/pymoveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mikealpha/colcon_ws/build/pymoveit2
+[1.029s] -- Install configuration: ""
+[1.029s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.sh
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.dsv
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/PKG-INFO
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/SOURCES.txt
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/top_level.txt
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/dependency_links.txt
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2
+[1.030s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py
+[1.031s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py
+[1.031s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py
+[1.031s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots
+[1.031s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py
+[1.031s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur5.py
+[1.031s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/kinova.py
+[1.080s] Listing '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2'...
+[1.080s] Compiling '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py'...
+[1.081s] Compiling '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py'...
+[1.082s] Compiling '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py'...
+[1.083s] Listing '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots'...
+[1.083s] Compiling '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py'...
+[1.083s] Compiling '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/kinova.py'...
+[1.083s] Compiling '/home/mikealpha/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur5.py'...
+[1.086s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_collision_object.py
+[1.086s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_joint_goal.py
+[1.086s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_pose_goal.py
+[1.086s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_servo.py
+[1.086s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets
+[1.087s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/rack_box.stl
+[1.087s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box1.stl
+[1.087s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/suzanne.stl
+[1.087s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/rack_box_again.stl
+[1.087s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box3.stl
+[1.088s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box2.stl
+[1.088s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/rack.stl
+[1.092s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box.stl
+[1.092s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2
+[1.092s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/__init__.py
+[1.092s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/moveit2_servo.py
+[1.092s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/moveit2.py
+[1.093s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/robots
+[1.093s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/robots/__init__.py
+[1.093s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/robots/ur5.py
+[1.093s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/pymoveit2/robots/kinova.py
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/robots
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/robots/__init__.py
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/robots/ur5.py
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/lib/pymoveit2/robots/kinova.py
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/ament_index/resource_index/package_run_dependencies/pymoveit2
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/ament_index/resource_index/parent_prefix_path/pymoveit2
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.sh
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.dsv
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/environment/path.sh
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/environment/path.dsv
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.bash
+[1.094s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.sh
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.zsh
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.dsv
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/package.dsv
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/ament_index/resource_index/packages/pymoveit2
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config.cmake
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config-version.cmake
+[1.096s] -- Installing: /home/mikealpha/colcon_ws/install/pymoveit2/share/pymoveit2/package.xml
+[1.097s] Invoked command in '/home/mikealpha/colcon_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mikealpha/colcon_ws/build/pymoveit2

@@ -1,0 +1,6 @@
+[0.043s] Invoking command in '/home/mikealpha/colcon_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mikealpha/colcon_ws/install/ur5_control:/home/mikealpha/colcon_ws/install/eyantra_warehouse:/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/pymoveit2 -- -j12 -l12
+[0.079s] failed to create symbolic link '/home/mikealpha/colcon_ws/build/pymoveit2/ament_cmake_python/pymoveit2/pymoveit2' because existing path cannot be removed: Is a directory
+[0.080s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_pymoveit2.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_pymoveit2] Error 1
+[0.080s] gmake[1]: *** [CMakeFiles/Makefile2:138: CMakeFiles/ament_cmake_python_symlink_pymoveit2.dir/all] Error 2
+[0.080s] gmake: *** [Makefile:146: all] Error 2
+[0.204s] Invoked command in '/home/mikealpha/colcon_ws/build/pymoveit2' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mikealpha/colcon_ws/install/ur5_control:/home/mikealpha/colcon_ws/install/eyantra_warehouse:/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/pymoveit2 -- -j12 -l12

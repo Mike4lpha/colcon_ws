@@ -1,0 +1,10 @@
+[0.043s] Invoking command in '/home/mikealpha/colcon_ws/build/linkattacher_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mikealpha/colcon_ws/install/ur5_control:/home/mikealpha/colcon_ws/install/eyantra_warehouse:/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/linkattacher_msgs -- -j12 -l12
+[0.070s] [35m[1mConsolidate compiler generated dependencies of target linkattacher_msgs__rosidl_generator_c[0m
+[0.078s] failed to create symbolic link '/home/mikealpha/colcon_ws/build/linkattacher_msgs/ament_cmake_python/linkattacher_msgs/linkattacher_msgs' because existing path cannot be removed: Is a directory
+[0.078s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_linkattacher_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_linkattacher_msgs] Error 1
+[0.079s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_linkattacher_msgs.dir/all] Error 2
+[0.079s] gmake[1]: *** Waiting for unfinished jobs....
+[0.079s] [  2%] Built target linkattacher_msgs__cpp
+[0.081s] [ 12%] Built target linkattacher_msgs__rosidl_generator_c
+[0.082s] gmake: *** [Makefile:146: all] Error 2
+[0.206s] Invoked command in '/home/mikealpha/colcon_ws/build/linkattacher_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mikealpha/colcon_ws/install/ur5_control:/home/mikealpha/colcon_ws/install/eyantra_warehouse:/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/linkattacher_msgs -- -j12 -l12

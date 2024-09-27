@@ -1,0 +1,6 @@
+Invoking command in '/home/mikealpha/colcon_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mikealpha/colcon_ws/src/realsense_gazebo_plugin -DCMAKE_INSTALL_PREFIX=/home/mikealpha/colcon_ws/install/realsense_gazebo_plugin
+Invoked command in '/home/mikealpha/colcon_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mikealpha/colcon_ws/src/realsense_gazebo_plugin -DCMAKE_INSTALL_PREFIX=/home/mikealpha/colcon_ws/install/realsense_gazebo_plugin
+Invoking command in '/home/mikealpha/colcon_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/realsense_gazebo_plugin -- -j12 -l12
+Invoked command in '/home/mikealpha/colcon_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mikealpha/colcon_ws/build/realsense_gazebo_plugin -- -j12 -l12
+Invoking command in '/home/mikealpha/colcon_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mikealpha/colcon_ws/build/realsense_gazebo_plugin
+Invoked command in '/home/mikealpha/colcon_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mikealpha/colcon_ws/build/realsense_gazebo_plugin
